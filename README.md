@@ -13,6 +13,7 @@ You will need R and RStudio. Any newer version should work (I used R 4.3.3 and R
 There is 1 code file (reproducibility.Rmd with its associated reproducibility.html file). There are also 2 pdf files with the lecture slides that I presented.
 
 reproducibility.Rmd creates output files in the format "numbers_1_to_10--multiplier \d .csv" but these data files should go in their own data folder.
-To do: update file structure!!
+
+**To do: update file structure!!**
    - change code to save output files in their own dedicated folder
 
