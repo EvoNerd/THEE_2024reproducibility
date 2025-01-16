@@ -17,7 +17,7 @@ You will need R and RStudio. Any newer version should work (I used R 4.3.3 and R
 If you want to "print" the R notebook file to a .pdf or .html file (this is called "knitting" the notebook file), you will need to install the knitr package (version 1.49 or better). You can use the command: `install.packages("knitr")`
 
 # File structure
-In this repository there is only 1 subfolder, containing all the R code for the in-class exercises.
+In this repository there is 1 subfolder called "code". It contains all the R code for the in-class exercises.
 
 In the main folder you can find the 2 .pdf files ("THEE_ResearchPractical--Reproducibility_2024-10-15.pdf" and "THEE_ResearchPractical--GitTutorial_2024-10-15.pdf") with the lecture slides and exercise instructions.
 
